@@ -1,5 +1,5 @@
 <!--Title @emerdesenv-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Prazer👋;sou+Emerson+Amancio;Atuando+como+Desenvolvedor+Trainee;e+Estudante+de+ADS;Bem+vindo+ao+meu+perfil!) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Prazer👋;Sou+Emerson+Amancio;Analista+de+Sistemas+Pleno;e+Estudante+de+UX/UI;Bem+vindo+ao+meu+perfil!) 
 
 <!--Graph-->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=emerdesenv&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
