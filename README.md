@@ -19,7 +19,7 @@
 
   <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-Bootstrap" height="30" width="90" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
   <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-JQuery" height="30" width="100" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-MySQL" height="30" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a><br>
+  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-MySQL" height="30" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-MariaDB" height="30" width="100" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
   <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-BitBucket" height="30" width="100" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
   <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-Trello" height="30" width="100" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
