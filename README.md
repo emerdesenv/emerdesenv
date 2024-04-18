@@ -9,14 +9,16 @@
 
 <h3> ~ Experiências ~ </h3>
 
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-Java" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-PHP" height="30" width="70" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-Js" height="30" width="100" href="#" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-JS" height="30" width="100" href="#" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-
   <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-Bootstrap" height="30" width="90" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
   <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-JQuery" height="30" width="100" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
+  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-Java" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+
+  <br>
+
   <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-MySQL" height="30" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-MariaDB" height="30" width="100" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
   <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-BitBucket" height="30" width="100" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
