@@ -7,7 +7,6 @@
   <img width=60%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emerdesenv&layout=compact&hide_border=true&title_name=teste&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 
 </div>
-<div style="display: inline_block"><br>
 
 <h3> ~ Experiências ~ </h3>
 
