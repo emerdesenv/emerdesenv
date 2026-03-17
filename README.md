@@ -47,9 +47,9 @@ Construindo **sistemas escaláveis**, aplicando **DevOps, arquitetura de softwar
 
 <div align="center">
 
-![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=emerdesenv&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emerdesenv&layout=compact&theme=tokyonight)
 
 </div>
 
