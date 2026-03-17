@@ -76,7 +76,7 @@ Orientação de **projetos aplicados e TCCs com foco em soluções reais de soft
 
 <div>
 
-<a href="https://www.linkedin.com/in/emerson-am%C3%A2ncio-698433146" target="_blank">
+<a href="[https://www.linkedin.com/in/emerson-am%C3%A2ncio-698433146](https://www.linkedin.com/in/emerson-amancio-713015383/)" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
