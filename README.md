@@ -1,36 +1,90 @@
-<!--Title @emerdesenv-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Prazer👋;Sou+Emerson+Amancio;Analista+de+Sistemas+Pleno;e+Estudante+de+UX/UI;Bem+vindo+ao+meu+perfil!) 
+<!-- Title -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Prazer👋;Sou+Emerson+Amancio;Tech+Lead+%7C+DevOps+Engineer;Professor+de+ADS;Arquitetura+de+Software+e+Sistemas+Escaláveis;Bem+vindo+ao+meu+GitHub!)
 
 <div align="center">
 
-  <a href="https://github.com/emerdesenv">
- 
-</div>
+### 💻 Tech Lead | DevOps | Professor de Análise e Desenvolvimento de Sistemas
 
-<h3> ~ Experiências ~ </h3>
-
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-PHP" height="30" width="70" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-JS" height="30" width="100" href="#" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-TS" height="30" width="100" href="#" src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=F7DF1E"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-HTML" height="30" width="70" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-CSS" height="30" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-Bootstrap" height="30" width="90" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-JQuery" height="30" width="100" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-Java" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-
-  <br>
-
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-MySQL" height="30" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-MariaDB" height="30" width="100" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-BitBucket" height="30" width="100" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-Trello" height="30" width="100" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-VSCode" height="30" width="140" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  <a href="https://github.com/emerdesenv/" target="_blank"><img align="center" alt="Emerson-Windows" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+Construindo **sistemas escaláveis**, aplicando **DevOps, arquitetura de software e boas práticas de engenharia**.
 
 </div>
-  
-  <h3> ~ Contatos ~ </h3>
- 
-<div> 
-  <a href="https://www.linkedin.com/in/emerson-am%C3%A2ncio-698433146" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+---
+
+# 🚀 Experiência e Tecnologias
+
+<div align="center">
+
+### Backend
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+
+### Frontend
+
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+
+### DevOps & Infra
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikmesh&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
+
+### Banco de Dados
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+
 </div>
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+# 🎓 Educação
+
+👨‍🏫 **Professor – Análise e Desenvolvimento de Sistemas**  
+📍 UniSenai Joinville
+
+Atuação em disciplinas como:
+
+- Estrutura de Dados  
+- Engenharia de Software  
+- DevOps  
+- Git e Versionamento  
+- Arquitetura de Sistemas  
+
+Orientação de **projetos aplicados e TCCs com foco em soluções reais de software**.
+
+---
+
+# 📫 Contato
+
+<div>
+
+<a href="https://www.linkedin.com/in/emerson-am%C3%A2ncio-698433146" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+# 🚀 Filosofia
+
+> “Software bem feito não é apenas código que funciona.  
+> É código que pode evoluir.”
